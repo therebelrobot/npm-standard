@@ -1,7 +1,7 @@
 {
   "name": "npm-standard",
   "version": "0.0.1",
-  "description": "An opinionated NPM module structure format",
+  "description": "WORK IN PROGRESS - An opinionated NPM module structure format",
   "main": "bin/npm-standard",
   "scripts": {
     "test": "mocha"
