@@ -1,0 +1,26 @@
+{
+  "name": "npm-standard",
+  "version": "0.0.1",
+  "description": "An opinionated NPM module structure format",
+  "main": "bin/npm-standard",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therebelbeta/npm-standard.git"
+  },
+  "keywords": [
+    "npm",
+    "standard",
+    "format",
+    "scaffold",
+    "module"
+  ],
+  "author": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therebelbeta/npm-standard/issues"
+  },
+  "homepage": "https://github.com/therebelbeta/npm-standard#readme"
+}
