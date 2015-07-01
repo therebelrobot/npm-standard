@@ -1,0 +1,14 @@
+language: node_js
+
+node_js:
+  - "0.10"
+  - "0.12"
+  - "iojs-1.x"
+  - "iojs-2.x"
+  - "iojs"
+
+sudo: false
+
+cache:
+  directories:
+  - node_modules
