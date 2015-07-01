@@ -1,7 +1,7 @@
 # npm-standard
 An opinionated NPM module structure format
 
-**Inspired by [feross/standard](https://github.com/feross/standard) and [ahmadnassri/npm-package-generator](https://github.com/ahmadnassri/npm-package-generator)**
+*Inspired by [feross/standard](https://github.com/feross/standard) and [ahmadnassri/npm-package-generator](https://github.com/ahmadnassri/npm-package-generator)*
 
 ### One Style to Rule Them All
 
